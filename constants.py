@@ -1,0 +1,13 @@
+ARTIST_ID_VALID = "3WrFJ7ztbogyGnTHbHJFl2"  
+ARTIST_ID_INVALID = "1A2B3C4D5E6F7G8H9I0J1K"  # valid format but non-existent ID
+
+ALBUM_ID_VALID = "0ETFjACtuP2ADo6LFhL6HN"
+ALBUM_ID_INVALID = "1A2B3C4D5E6F7G8H9I0J1K"
+
+TOP_TRACKS_MAX = 10
+
+STATUS_OK = 200
+STATUS_NOT_FOUND = 404
+
+BASE_URL = "https://api.spotify.com"
+TOKEN_URL = "https://accounts.spotify.com/api/token"

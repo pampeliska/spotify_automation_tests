@@ -1,0 +1,13 @@
+*.log
+*.dat
+*.pyc
+*.png
+output.xml
+log.html
+report.html
+trace_playwright.zip
+log/
+browser/
+video/
+log/playwright-log.txt
+playwright-log.txt
