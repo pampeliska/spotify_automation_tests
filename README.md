@@ -1,4 +1,4 @@
-## spotify_automation_tests
+## Spotify automation tests
 
 Spotify automated API tests
 

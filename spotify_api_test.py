@@ -33,7 +33,7 @@ def spotify_token(api_context):
     print(f"\nResponse: {response}")
     print(f"Response body: {response.text()}")
 
-    assert response.status == 200
+    assert response.status == STATUS_OK
     token_data = response.json()
     return token_data["access_token"]
 
